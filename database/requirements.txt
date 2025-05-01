@@ -1,0 +1,4 @@
+psycopg
+selenium
+beautifulsoup4
+requests

@@ -1,0 +1,4 @@
+.env
+node_modules/
+/backend/src/config/serviceAccountKey.json
+backup_jobs.sql

@@ -1,0 +1,44 @@
+version: '3.8'
+
+services:
+  postgres_db:
+    image: postgres:15
+    container_name: postgres_db
+    restart: always
+    env_file:
+      - ./database/.env
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+      - ./database/schema.sql:/docker-entrypoint-initdb.d/schema.sql
+
+      
+
+  job_fetcher:
+    build: ./job-fetching-service
+    container_name: job_fetcher
+    depends_on:
+      - postgres_db
+    env_file:
+      - ./job-fetching-service/.env
+    environment:
+      - ./database/.env
+    command: ["python", "main.py"]
+    volumes:
+      - ./job-fetching-service:/app
+
+  backend:
+    build: ./backend
+    container_name: job_backend
+    depends_on:
+      - postgres_db
+    env_file:
+      - ./backend/.env
+    ports:
+      - "8000:8000"
+    volumes:
+     - ./backend:/app
+
+volumes:
+  postgres_data:

@@ -1,0 +1,178 @@
+[
+    {
+      "title": "React - The Complete Guide (incl Hooks, React Router, Redux)",
+      "provider": "Udemy",
+      "description": "Learn React from scratch, including Hooks, React Router, Redux, and more.",
+      "rating": 4.7,
+      "duration": "48 hours",
+      "level": "Beginner to Advanced",
+      "skills": ["React", "JavaScript", "Frontend"],
+      "link": "https://www.udemy.com/course/react-the-complete-guide-incl-redux/",
+      "category": "Frontend"
+    },
+    {
+      "title": "Modern React with Redux",
+      "provider": "Udemy",
+      "description": "Learn modern React and Redux with a comprehensive, hands-on approach.",
+      "rating": 4.8,
+      "duration": "40 hours",
+      "level": "Intermediate",
+      "skills": ["React", "Redux", "JavaScript"],
+      "link": "https://www.udemy.com/course/react-redux/",
+      "category": "Frontend"
+    },
+    {
+      "title": "Node.js, Express, MongoDB & More: The Complete Bootcamp 2023",
+      "provider": "Udemy",
+      "description": "Learn Node.js, Express, MongoDB and build real-world applications.",
+      "rating": 4.7,
+      "duration": "35 hours",
+      "level": "Beginner to Intermediate",
+      "skills": ["Node.js", "Express", "MongoDB", "JavaScript"],
+      "link": "https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/",
+      "category": "Backend"
+    },
+    {
+      "title": "The Complete SQL Bootcamp 2023: Go from Zero to Hero",
+      "provider": "Udemy",
+      "description": "Learn SQL and PostgreSQL from the ground up to efficiently query databases.",
+      "rating": 4.6,
+      "duration": "19 hours",
+      "level": "Beginner to Intermediate",
+      "skills": ["SQL", "PostgreSQL", "Database"],
+      "link": "https://www.udemy.com/course/the-complete-sql-bootcamp/",
+      "category": "Database"
+    },
+    {
+      "title": "Understanding TypeScript - 2023 Edition",
+      "provider": "Udemy",
+      "description": "Master TypeScript fundamentals and advanced features for robust web development.",
+      "rating": 4.6,
+      "duration": "12 hours",
+      "level": "Intermediate",
+      "skills": ["TypeScript", "JavaScript", "Web Development"],
+      "link": "https://www.udemy.com/course/understanding-typescript/",
+      "category": "Frontend"
+    },
+    {
+      "title": "TypeScript Bootcamp",
+      "provider": "Frontend Masters",
+      "description": "Deep dive into TypeScript with hands-on projects and expert instruction.",
+      "rating": 4.8,
+      "duration": "15 hours",
+      "level": "Advanced",
+      "skills": ["TypeScript", "JavaScript"],
+      "link": "https://frontendmasters.com/courses/typescript/",
+      "category": "Frontend"
+    },
+    {
+      "title": "Kubernetes for the Absolute Beginners - Hands-on",
+      "provider": "Udemy",
+      "description": "Start with Kubernetes by deploying your first containerized applications through hands-on labs.",
+      "rating": 4.5,
+      "duration": "9 hours",
+      "level": "Beginner",
+      "skills": ["Kubernetes", "Docker", "DevOps"],
+      "link": "https://www.udemy.com/course/kubernetes-for-the-absolute-beginners/",
+      "category": "DevOps"
+    },
+    {
+      "title": "Kubernetes Fundamentals",
+      "provider": "Linux Foundation",
+      "description": "Learn the fundamentals of Kubernetes and container orchestration from industry experts.",
+      "rating": 4.6,
+      "duration": "15 hours",
+      "level": "Intermediate",
+      "skills": ["Kubernetes", "Containers", "DevOps"],
+      "link": "https://training.linuxfoundation.org/training/kubernetes-fundamentals/",
+      "category": "DevOps"
+    },
+    {
+      "title": "Ultimate AWS Certified Developer Associate 2023",
+      "provider": "Udemy",
+      "description": "Prepare for the AWS Certified Developer Associate exam with comprehensive content and real-world projects.",
+      "rating": 4.7,
+      "duration": "30 hours",
+      "level": "Intermediate",
+      "skills": ["AWS", "Cloud Computing", "Serverless"],
+      "link": "https://www.udemy.com/course/ultimate-aws-certified-developer-associate-2023/",
+      "category": "DevOps"
+    },
+    {
+      "title": "AWS Certified Developer - Associate 2023: Build and Deploy Applications",
+      "provider": "Udemy",
+      "description": "Master the skills required to build and deploy applications on AWS.",
+      "rating": 4.6,
+      "duration": "28 hours",
+      "level": "Intermediate",
+      "skills": ["AWS", "Cloud Services", "DevOps"],
+      "link": "https://www.udemy.com/course/aws-certified-developer-associate-2023-build-and-deploy-applications/",
+      "category": "DevOps"
+    },
+    {
+      "title": "Java Programming Masterclass for Software Developers",
+      "provider": "Udemy",
+      "description": "Comprehensive Java course covering basics to advanced topics.",
+      "rating": 4.8,
+      "duration": "80 hours",
+      "level": "Beginner to Advanced",
+      "skills": ["Java", "Object-Oriented Programming", "Backend"],
+      "link": "https://www.udemy.com/course/java-the-complete-java-developer-course/",
+      "category": "Backend"
+    },
+    {
+      "title": "Beginning C++ Programming - From Beginner to Beyond",
+      "provider": "Udemy",
+      "description": "Learn C++ from scratch and build a solid foundation for further programming.",
+      "rating": 4.7,
+      "duration": "40 hours",
+      "level": "Beginner to Intermediate",
+      "skills": ["C++", "Programming", "Object-Oriented Programming"],
+      "link": "https://www.udemy.com/course/beginning-c-plus-plus-programming/",
+      "category": "Programming"
+    },
+    {
+      "title": "Go: The Complete Developer's Guide (Golang)",
+      "provider": "Udemy",
+      "description": "Master the Go programming language and build scalable, fast applications.",
+      "rating": 4.8,
+      "duration": "30 hours",
+      "level": "Intermediate",
+      "skills": ["Go", "Golang", "Backend"],
+      "link": "https://www.udemy.com/course/go-the-complete-developers-guide/",
+      "category": "Backend"
+    },
+    {
+      "title": "Git Complete: The Definitive, Step-by-Step Guide to Git",
+      "provider": "Udemy",
+      "description": "Learn Git from scratch and master version control for software development.",
+      "rating": 4.7,
+      "duration": "8 hours",
+      "level": "Beginner to Intermediate",
+      "skills": ["Git", "Version Control", "Collaboration"],
+      "link": "https://www.udemy.com/course/git-complete/",
+      "category": "Tools"
+    },
+    {
+      "title": "Complete Python Bootcamp: Go from Zero to Hero in Python 3",
+      "provider": "Udemy",
+      "description": "Learn Python programming with hands-on exercises and real-world projects.",
+      "rating": 4.8,
+      "duration": "22 hours",
+      "level": "Beginner to Advanced",
+      "skills": ["Python", "Programming", "Data Analysis"],
+      "link": "https://www.udemy.com/course/complete-python-bootcamp/",
+      "category": "Backend"
+    },
+    {
+      "title": "The Complete Ruby on Rails Developer Course",
+      "provider": "Udemy",
+      "description": "Learn Ruby and Ruby on Rails by building real-world applications from scratch.",
+      "rating": 4.7,
+      "duration": "35 hours",
+      "level": "Beginner to Intermediate",
+      "skills": ["Ruby", "Ruby on Rails", "Web Development"],
+      "link": "https://www.udemy.com/course/the-complete-ruby-on-rails-developer-course/",
+      "category": "Backend"
+    }
+  ]
