@@ -1,4 +1,4 @@
-# Synoptic Project: Real-time Job Market Hub
+# Real-time Job Market Hub
 
 ## Overview
 A full‑stack application that ingests job listings from external APIs, stores and analyses skill data, and presents insights through an interactive web interface for students and institutions.
