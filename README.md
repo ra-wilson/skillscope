@@ -21,7 +21,6 @@ This repository contains three main components:
 - [Directory Structure](#directory-structure)
 - [Key Components](#key-components)
 - [Usage](#usage)
-- [Contributing](#contributing)
 
 ---
 
